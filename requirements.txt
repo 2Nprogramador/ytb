@@ -1,5 +1,7 @@
-import streamlit
-from pytube import YouTube
-import os
-from moviepy.editor import VideoFileClip, AudioFileClip
-from threading import Thread
+streamlit
+pytube3
+moviepy
+numpy
+requests
+tqdm
+
